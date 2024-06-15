@@ -19,3 +19,6 @@ Custom hook for now Playing Movies
 Update Store with movies Data
 Fetch Data for youtube video
 Embedded youtube video and make it autoplay and mute it
+GPT search page created
+GPT search bar created
+Multi-language feature added in our app
